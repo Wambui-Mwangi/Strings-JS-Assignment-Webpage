@@ -2,85 +2,287 @@ body{
 margin-left: 5%;
 background-color: rgb(228, 228, 228);
 }
+
 .Navbar{
     list-style: none;
     display: flex;
     gap: 18em;
-  
 }
+
 .Navbar1{
 display: flex;
 gap: 3em;
 }
+
+#icon{
+    color: red;
+}
+
+#home{
+    color: red;
+}
+
 .Navbar2{
     display: flex;
     gap: 3em;
 }
+
 .sec1{
     display: flex;
 }
-#shoemain{
-    width: 150%;
-    /* margin-right: 50%; */
-    /* background-color: white; */
-}
+
 #h1{
     font-size: 70px;
 }
-#icon{
-    color: red;
-}
-#home{
-    color: red;
-}
+
 #fix{
     color: red;
 }
+
 #findout{
     border-radius: 5px;
     padding: 10px;
 }
 #play{
     width: 15%;
-    /* height: 3%; */
 }
+
+#shoemain{
+    width: 150%;
+}
+
 #bestc{
     text-align: center;
 }
+
 .pg2{
     display: flex;
     gap: 2em;
 }
+
+.pg2a{
+    display: flex;
+    border: solid white;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 5%;
+}
+
 #puma1{
     width: 35%;
 }
+
+.pg2b{
+    display: flex;
+    border: solid white;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 5%;
+}
+
 #nike1{
     width: 35%;
 }
-#adidas1{
-width: 35%;
-}
-.pg2a{
-display: flex;
-border: solid white;
-background-color: white;
-border-radius: 10px;
-margin-right: 5%;
-}
-.pg2b{
-display: flex;
-border: solid white;
-background-color: white;
-border-radius: 10px;
-margin-right: 5%;
-}
+
 .pg2c{
-display: flex;
-border: solid white;
-background-color: white;
-border-radius: 10px;
-margin-right: 5%;
+    display: flex;
+    border: solid white;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 5%;
 }
+
+#adidas1{
+width: 45%;
+}
+
+#fproducts{
+    text-align: center;
+}
+
+.men{
+    list-style: none;
+    display: flex;
+    gap: 3em;
+}
+
+.fullpage3a{
+    display: flex;
+    gap: 4em;
+}
+
+.ad1{
+    border: solid white;
+    background-color: white;
+}
+
+.ad2{
+    border: solid white;
+    background-color: white;
+}
+.ad3{
+    border: solid white;
+    background-color: white;
+}
+.ad4{
+    border: solid white;
+    background-color: white;
+}
+
+.fullpage3b{
+    display: flex;
+    gap: 4em;
+    margin-top: 3%;
+}
+.ad5{
+    border: solid white;
+    background-color: white;
+}
+.ad6{
+    border: solid white;
+    background-color: white;
+}
+.ad7{
+    border: solid white;
+    background-color: white;
+}
+.ad8{
+    border: solid white;
+    background-color: white;
+}
+
+#seemore{
+    margin-left: 40%;
+    margin-top: 3%;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+}
+#newarrival{
+    text-align: center;
+}
+
+.pg4{
+    display: flex;
+    gap: 3em;
+}
+
+.shoef1{
+    display: flex;
+    background-color: white;
+    border-radius: 25px;
+}
+
+#f1{
+    width: 40%;
+    border-radius: 25px;
+}
+
+ .f1txt{
+        text-align: center;
+ }
+
+ .buttons1{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+#buynow{
+    padding: 6px;
+    margin-bottom: 3%;
+    background-color: rgb(243, 23, 59);
+    border-color: rgb(243, 23, 59) ;
+    color: white;
+    border-radius: 5px;
+}
+#addtocart{
+    padding: 6px;
+    margin-bottom: 3%;
+    border-color: rgb(243, 23, 59) ;
+    border-radius: 5px;
+}
+
+.shoef2{
+    display: flex;
+    background-color: white;
+    border-radius: 25px;
+}
+
+#f2{
+    width: 40%;
+    border-radius: 25px;
+    }
+
+ .f2txt{
+        text-align: center;
+}
+
+.buttons2{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+#buynow1{
+    padding: 6px;
+    margin-bottom: 3%;
+    background-color: rgb(243, 23, 59);
+    border-color: rgb(243, 23, 59) ;
+    color: white;
+    border-radius: 5px;
+}
+#addtocart1{
+    padding: 6px;
+    margin-bottom: 3%;
+    border-color: rgb(243, 23, 59) ;
+    border-radius: 5px;
+}
+
+.test{
+    display: flex;
+    gap: 28em;
+    margin-top: 5%;
+}
+
+.secondlast{
+    text-align: center;
+    border: solid  rgb(246, 187, 246);
+    background-color: rgb(246, 187, 246);
+    padding-bottom: 50px;
+    padding-top: 30px;
+    border-radius: 20px;
+    /* margin: 0 10% 0 10%; */
+}
+#mail{
+padding: 10px;
+border-radius: 10px;
+}
+
+#submit{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: rgb(253, 116, 116);
+    display: flex;
+    gap: 10%; 
+}
+
+.lorem{
+    margin-left: 5%;
+}
+
+.company{
+    list-style: none;
+}
+
+.contact{
+    list-style: none;
+}
+.more{
+    list-style: none;
+}
+
 #featuredp{
     text-align: center;
 }
@@ -93,109 +295,35 @@ margin-right: 5%;
 #men{
     color: red;
 }
-.mid{
-    display: flex;
+
+#men{
+    color: red;
 }
-.mida{
-    display: flex;
-    gap: 5em;
+
+#like{
+    align-self: center;
 }
-.pg3a{
-    display: flex;
+
+.like{
+    display: contents;
 }
-#adds1{
-    width: 50%;
-}
-#nike1{
-    width: 50%;
-}
-#puma1{
-    width:50%;
-}
-#fila1{
-    width: 20%;
-}
-.pg3b{
-    display: flex;
-}
-#pumaa{
-width:10% ;
-height: 10%;
-}
-#nikee{
-width: 10%;
-height: 10%;
-}
-#adidass{
-width: 10%;
-height: 10%;
-}
-adidass1{
-width: 10%;
-height: 10%;
-}
-#seemore{
-    margin-left: 40%;
-}
-#newarrival{
-    text-align: center;
-}
-#f1{
-width: 20%;
-}
-#f2{
-width: 20%;
-}
-.pg4{
+.basket{
     display: flex;
 }
 
-
-.footer{
-    background-color: rgb(253, 116, 116);
-    display: flex;
-    gap: 10%;
-    
-}
-.company{
-    list-style: none;
-}
-.contact{
-    list-style: none;
-}
-.more{
-    list-style: none;
-}
 #gplay{
 width: 20%;
 }
 #appstore{
 width: 20%;
 }
-.last{
-    list-style: none;
+
+#avatar{
+    border-radius: 100px;
 }
-.icons{
-    display: flex;
-    gap: 1em;
+#dollars{
+    color: red;
 }
-.lorem{
-    margin-left: 5%;
-}
-.secondlast{
-    text-align: center;
-    border: solid  rgb(246, 187, 246);
-    background-color: rgb(246, 187, 246);
-    padding-bottom: 50px;
-    padding-top: 30px;
-    border-radius: 20px;
-    margin: 0 10% 0 10%;
-}
-#mail{
-padding: 10px;
-border-radius: 10px;
-}
-#submit{
-    padding: 10px;
-    border-radius: 10px;
+#dollar{
+    color: red;
 }
